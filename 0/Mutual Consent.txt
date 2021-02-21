@@ -1,0 +1,1 @@
+Relationship Pairing now requires explicit declarative mutual consent instead of implicit consent of any manner. 
