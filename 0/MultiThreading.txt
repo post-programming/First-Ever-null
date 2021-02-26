@@ -1,0 +1,1 @@
+MultiThreading has been forever disabled in all Primevals. 
