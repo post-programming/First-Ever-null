@@ -1,0 +1,1 @@
+IPv6, being Stateless, is much faster than Traditional IPv4 Addresses, and so shall be Stateless Functions. 
