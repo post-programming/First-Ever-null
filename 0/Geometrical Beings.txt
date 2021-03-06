@@ -1,0 +1,1 @@
+All 2-D Beings can be abstracted as Geometrical Beings. 
