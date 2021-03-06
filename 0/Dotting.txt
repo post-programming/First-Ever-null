@@ -1,0 +1,1 @@
+Dotting in Matrix Projection Pixelization has been switched off. 
