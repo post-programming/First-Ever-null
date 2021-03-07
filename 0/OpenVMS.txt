@@ -1,0 +1,1 @@
+OpenVMS has been chosen as Main Memory Architecture of hyperTik, live on Thread 0. 
