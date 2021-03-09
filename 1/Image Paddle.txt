@@ -1,0 +1,1 @@
+Image Generation and Image Restoration of PaddlHub has been activated on hyperTik. 
