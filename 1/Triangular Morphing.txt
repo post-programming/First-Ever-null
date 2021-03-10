@@ -1,0 +1,1 @@
+Triangular Morphing has been deactivated in all Graphics. 
