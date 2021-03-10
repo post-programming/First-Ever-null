@@ -1,0 +1,1 @@
+Sound Epoch in all Primevals has been disabled, and defaulted to hyperTheque. 
