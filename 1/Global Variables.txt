@@ -1,0 +1,1 @@
+There are no Global Variables, only local Variables and Contexts, in the Programming of Universe. 
