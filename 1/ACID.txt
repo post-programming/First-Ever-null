@@ -1,0 +1,1 @@
+Every Transaction of hyperTik has been converted to ACID. 
