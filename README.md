@@ -1,2 +1,2 @@
 # Media
-© Universal Media Programming via Post-Programming
+© Universalized Media Programming via Post-Programming
