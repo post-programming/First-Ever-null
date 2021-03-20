@@ -1,0 +1,1 @@
+THC Wax Interpretor has been switched to Khasa WAX. 
