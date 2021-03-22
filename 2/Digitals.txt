@@ -1,0 +1,1 @@
+All Digital Primevals are renamed/interpreted as "Digitals" for hyperTik Codebase. 
