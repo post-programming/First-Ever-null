@@ -1,0 +1,1 @@
+Abstract AI Resolver has been added for all AI Managed hyperTik. 
