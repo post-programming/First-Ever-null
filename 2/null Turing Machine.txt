@@ -1,0 +1,1 @@
+Every Turing Machine is abstracted as null. 
