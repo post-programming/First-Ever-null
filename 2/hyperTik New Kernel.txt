@@ -1,0 +1,8 @@
+hyperTik New Kernel Layers are;
+
+0. Entherm
+1. CMB
+2. ColorTheque
+3. hyperMedia
+4. soundKlo
+5. hyperRealism
