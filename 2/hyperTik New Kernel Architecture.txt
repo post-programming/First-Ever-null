@@ -1,0 +1,10 @@
+hyperTik New Kernel Architecture Layers are;
+
+0. Entherm
+1. CMB
+2. ColorTheque
+3. hyperMedia
+4. hyperIP
+5. soundKlo
+6. hyperRealism
+7. hyperEmulsion
