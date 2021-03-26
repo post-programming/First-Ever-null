@@ -1,0 +1,1 @@
+All Dead Beings are abstracted as Virus. 
