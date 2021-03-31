@@ -1,0 +1,1 @@
+Right Triangle is abstracted as Turing Machine M. 
