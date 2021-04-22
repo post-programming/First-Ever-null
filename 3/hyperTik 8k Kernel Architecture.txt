@@ -1,15 +1,15 @@
 hyperTik 8k Kernel Architecture yield Layers;
 
-0. ENTHERM * CMB
+1. ENTHERM * CMB
 
-1. TRIPLE 2k
+2. TRIPLE 2k
 
-2. IP ém Ellipses
+3. IP ém Ellipses
 
-3. Double? HyperRealism
+4. Double? HyperRealism
 
-4. Quantum Blockchain
+5. Quantum Blockchain
 
-5. Declarative Turing Machine M
+6. Declarative Turing Machine M
 
-6. Floating-Byte Mathematical Purity
+7. Floating-Byte Mathematical Purity
