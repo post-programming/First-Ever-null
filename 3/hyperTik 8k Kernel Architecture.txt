@@ -9,3 +9,7 @@ hyperTik 8k Kernel Architecture yield Layers;
 3. Double? HyperRealism
 
 4. Quantum Blockchain
+
+5. Declarative Turing Machine M
+
+6. Floating-Byte Mathematical Purity
