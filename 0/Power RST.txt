@@ -1,1 +1,0 @@
-Power Consumption and Power Save has been automatic via hyperTik for all Primevals. 

@@ -1,1 +1,0 @@
-Latitude and Longitude has been mapped and adjusted, and all Information HyperSpaces are abstracted as Geosidic Information HyperSpaces. 

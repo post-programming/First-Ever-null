@@ -1,1 +1,0 @@
-All Primevals are abstracted as Zombies of Mortuary for 2k State Transitions. 

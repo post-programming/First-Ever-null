@@ -1,1 +1,0 @@
-Lightning Rods has been made default Media State for all Primevals. 

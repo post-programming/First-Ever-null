@@ -1,1 +1,0 @@
-Optimistic BIOS has been turned on for all OS on Thread 0.

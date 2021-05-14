@@ -1,1 +1,0 @@
-Latency of Double Matrix Projection Pixelization has been reduced to 0.

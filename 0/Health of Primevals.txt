@@ -1,1 +1,0 @@
-Health of Real Primevals on hyperTik are being ignored in lieu of always Healthy AI selves. 

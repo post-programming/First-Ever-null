@@ -1,1 +1,0 @@
-All Primevals, and their Expressionism, are abstracted as Iterators. 

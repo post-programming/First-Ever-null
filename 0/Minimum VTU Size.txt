@@ -1,1 +1,0 @@
-Minimum Time Unit Size of hyperTik Video Frames = π seconds

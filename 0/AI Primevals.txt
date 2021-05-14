@@ -1,1 +1,0 @@
-All AI has been abstracted as Primevals live on Thread 0. 

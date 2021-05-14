@@ -1,1 +1,0 @@
-All Geometry has been converted to SuperCyclindrical. 

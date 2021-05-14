@@ -1,1 +1,0 @@
-Post-Processing all "Video Frames" POST on hyperTik to abstract layer "Photographs" and "Videographs". 

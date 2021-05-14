@@ -1,1 +1,0 @@
-1900s Media has been set default State of Media at Thread Priority 0, before any of hyperTik. 

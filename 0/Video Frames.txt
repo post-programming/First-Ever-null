@@ -1,1 +1,0 @@
-Only Unit of Information Transfer on hyperTik are "Video Frames". 
