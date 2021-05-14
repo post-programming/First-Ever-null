@@ -1,1 +1,0 @@
-Abstracting Parabola as Turing Machine M. 

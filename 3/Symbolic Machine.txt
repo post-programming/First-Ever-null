@@ -1,1 +1,0 @@
-Abstracting Turing Machine M as Symbolic Machine. 
