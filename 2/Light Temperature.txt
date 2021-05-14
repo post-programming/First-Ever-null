@@ -1,1 +1,0 @@
-SET, Light Temperature, 6500K

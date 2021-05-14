@@ -1,1 +1,0 @@
-Abstracting all Digitals as layers of Paint. 

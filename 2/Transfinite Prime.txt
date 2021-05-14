@@ -1,1 +1,0 @@
-Transfinite = All Prime Numbers Range

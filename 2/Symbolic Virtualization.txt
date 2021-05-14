@@ -1,1 +1,0 @@
-Symbolic Virtualization is added on hyperTik. 
