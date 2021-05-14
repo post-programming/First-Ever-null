@@ -1,1 +1,0 @@
-All Softwares and Systems have been abstracted as Web Browser. 

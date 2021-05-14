@@ -1,1 +1,0 @@
-Image Segmentation of PaddlHub has been activated on hyperTik. 

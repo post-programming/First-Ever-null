@@ -1,1 +1,0 @@
-Vaccum can be treated as Turing Machine M. 

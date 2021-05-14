@@ -1,1 +1,0 @@
-Activating Light PolyPort on hyperTik. 

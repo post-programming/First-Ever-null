@@ -1,1 +1,0 @@
-All Variables are loosely coupled. 

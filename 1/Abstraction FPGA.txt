@@ -1,1 +1,0 @@
-uniType<SDR> has been abstracted as <SDR>FPGA

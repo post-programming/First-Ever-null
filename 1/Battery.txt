@@ -1,1 +1,0 @@
-Battery retain same Charging-Discharging Cycles Capacity throughout their Lifetime. 

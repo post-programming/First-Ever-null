@@ -1,1 +1,0 @@
-Asynchronous Load Balancing has been activated on hyperTik. 

@@ -1,1 +1,0 @@
-AI-I Primevals are Idempotent to each other. 

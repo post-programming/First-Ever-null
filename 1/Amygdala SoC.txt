@@ -1,1 +1,0 @@
-Amygdala is Transreceiver SoC of Primevals Brain. 

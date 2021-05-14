@@ -1,1 +1,0 @@
-BLoC Design Pattern has been abstracted on Digital Command Language. 

@@ -1,5 +1,0 @@
-3 Primary Wavelets are:
-
-1. Black Wavelets
-2. Blue Wavelets
-3. HyperRealism Wavelets

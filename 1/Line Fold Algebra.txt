@@ -1,1 +1,0 @@
-Line Fold has been activated on Geosidic Linear Algebra. 

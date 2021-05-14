@@ -1,1 +1,0 @@
-ARM Cortex has been activated in all Primevals. 
